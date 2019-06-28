@@ -1,3 +1,5 @@
 # 菜鸟教程 Git 测试
-#hi
+#how are you 
 im fine
+#thank
+ you!
